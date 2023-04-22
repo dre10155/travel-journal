@@ -1,0 +1,67 @@
+
+.travel-card-wrapper {
+    display: flex;
+    margin: 36px 40px 0px 40px;
+    gap:5px;
+    max-width: 471px;
+    max-height: 168px;
+}
+.destination-img {
+    max-width: 125px;
+    max-height: 168px;
+    border-radius: 5px;
+
+}
+
+
+ul {
+    list-style: none;
+}
+
+.location-text {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.location-name {
+    font-size: 11px;
+    font-weight: 300;
+    line-height: 12px;
+    color: #2B283A;
+
+}
+
+.location-link {
+    font-size: 11px;
+    font-weight: 100;
+    line-height: 12px;
+    color:#918E9B;
+
+}
+
+
+.title {
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 30px;
+}
+
+
+.dates {
+    font-size: 10px;
+    font-weight: 700;
+    line-height: 12px;
+}
+
+.description {
+    font-size: 10px;
+    font-weight: 300;
+    line-height: 15px;
+    color: #2B283A;
+}
+
+.divider {
+    width: 95%;
+    color: #F5F5F5;
+}
